@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'micra';
 
-  src: url('../../assets/fonts/micra.woff2') format('woff2');
+  src: url('./../assets/fonts/micra.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'helvetica';
 
-  src: url('../../assets/fonts/helvetica_regular.woff2') format('woff2');
+  src: url('./../assets/fonts/helvetica_regular.woff2') format('woff2');
 }
 
 html{
